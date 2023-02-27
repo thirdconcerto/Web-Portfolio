@@ -1,0 +1,27 @@
+* {
+	margin:  0;
+	box-sizing: border-box;
+    padding: 0px;
+}
+
+body {
+	font-family: 'Golos Text', sans-serif;
+}
+
+.VerticalNavigation li {
+    padding: 10px;
+}
+
+
+
+.VerticalNavigation {
+    list-style-type: none;
+}
+
+h3, h5, h2 {
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
